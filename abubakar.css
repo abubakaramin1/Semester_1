@@ -1,0 +1,131 @@
+header
+{
+    height: 50px;
+    background-color: rgb(6, 6, 94);
+}
+img
+{
+    height: 40px;
+    width: 100px;
+}
+.header1
+{
+    display: inline-block;
+}
+.header2
+{
+    display: inline-block;
+    margin-left: 1010px;
+}
+.li1
+{
+    display: inline-block;
+    font-size:20px;
+}
+.li2
+{
+    display: inline-block;
+    margin-left: 30px;
+    font-size:20px;
+}
+.img1
+{
+    height: 500px;
+    width: 1150px;
+    margin-left: 7%;
+    margin-top: 1%;
+}
+.div1
+{
+    height: 620px;
+    
+    background-color: rgb(17, 17, 155);
+}
+
+.pre1
+{
+    left: 70px;
+}
+.sec4
+{
+    width: 100%;
+   color: yellowgreen;
+   text-indent: 185px;
+    background-color: rgb(14, 14, 71);
+    display: inline-block;
+}
+.span2
+{
+    background-color:rgb(34, 2, 59);
+}
+.span3
+{
+    background-color:rgb(34, 2, 59);
+}
+.pre1
+{
+    background-color: rgb(10, 91, 105);
+    font-size: 18px;
+}
+.sec5
+{
+    display: inline-block;
+    width: 100%;
+    color: yellowgreen;
+    text-indent: 135px;
+     background-color: rgb(14, 14, 71);
+}
+.pre2
+{
+    background-color: rgb(10, 91, 105);
+    font-size: 18px;
+}
+.sec1
+{
+    display: inline-block;
+    margin-left: 91px;
+}
+.sec2
+{
+    display: inline-block;
+}
+.sec3
+{
+    display: inline-block;
+    margin-left: 93.5px;
+}
+.sec6
+{
+    display: inline-block;
+    width: 100%;
+    color: yellowgreen;
+    text-indent: 120px;
+     background-color: rgb(14, 14, 71);
+}
+.pre3
+{
+    background-color: rgb(10, 91, 105);
+    font-size: 18px;
+}
+.li3
+{
+    font-size: 18px;
+    color: rgb(132, 214, 187);
+    display: inline-block;
+}
+.li4
+{
+    font-size: 18px;
+    color: rgb(132, 214, 187);
+    display: inline-block;
+    margin-left: 60%;
+}
+.div3
+{
+    height: 50px;
+    background-color: rgb(6, 6, 94);
+}
+a
+{
+    color: rgb(132, 214, 187);
+}
